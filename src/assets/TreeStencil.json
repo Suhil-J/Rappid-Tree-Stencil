@@ -1,0 +1,122 @@
+{
+  "name": "Angular",
+  "dir": true,
+  "children": [
+    {
+      "name": "node_modules",
+      "icon": "assets/favorite.svg",
+      "dir": true,
+      "children": [
+        {
+          "name": "Packages",
+          "icon": "assets/link.svg"
+        }
+      ]
+    },
+    {
+      "name": "src",
+      "dir": true,
+      "collapsed": true,
+      "children": [
+        {
+          "name": "app",
+          "dir": true,
+          "collapsed": true,
+          "children": [
+            {
+              "name": "app-routing.module.ts"
+            },
+            {
+              "name": "app.component.html"
+            },
+            {
+              "name": "app.component.css"
+            },
+            {
+              "name": "app.component.spec.ts"
+            },
+            {
+              "name": "app.component.ts"
+            },
+            {
+              "name": "app.module.ts"
+            }
+          ]
+        },
+        {
+          "name": "assets",
+          "dir": true,
+          "collapsed": true,
+          "children": [
+            {
+              "name": "gitkeep"
+            },
+            {
+              "name": "Others files and images"
+            }
+          ]
+        },
+        {
+          "name": "enviornments",
+          "dir": true,
+          "collapsed": true,
+          "children": [
+            {
+              "name": "enviornment.prod.ts"
+            },
+            {
+              "name": "enviornments.ts"
+            }
+          ]
+        },
+        {
+          "name": "Service",
+          "dir": true,
+          "collapsed": true,
+          "children": [
+            {
+              "name": "service.spec.ts"
+            },
+            {
+              "name": "service.ts"
+            }
+          ]
+        },
+        {
+          "name": "index.html"
+        },
+        {
+          "name": "main.ts"
+        }
+      ]
+    },
+    {
+      "name": "angular.json"
+    },
+    {
+      "name": "karma.conf.js"
+    },
+    {
+      "name": "package.log.json"
+    },
+    {
+      "name": "package.json"
+    },
+    {
+      "name": "tsconfig",
+      "dir": true,
+      "collapsed": true,
+      "children": [
+        {
+          "name": "tsconfig.app.json"
+        },
+        {
+          "name": "tsconfig.json"
+        },
+        {
+          "name": "tsconfig.spec.json"
+        }
+      ]
+    }
+  ]
+}
